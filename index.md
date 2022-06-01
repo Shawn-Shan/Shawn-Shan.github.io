@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This is a very casual blog by [Shawn Shan](https://www.shawnshan.com/). I talk about research and host resources in this page.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+If you find anything interesting and would love more in depth discussion, feel free to email me to schedule a chat!
